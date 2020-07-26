@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="n" max_length="40" name="x_58872_needit_n" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Completed" label="Completed" max_length="40" name="u_completed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Encounter Type" label="Encounter Type" max_length="40" name="u_encounter_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Survey Response Date" label="Last Survey Response Date" max_length="40" name="u_last_survey_response_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Patient First Name" label="Patient First Name" max_length="40" name="u_patient_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Patient Last Name" label="Patient Last Name" max_length="40" name="u_patient_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Patient Middle Name" label="Patient Middle Name" max_length="40" name="u_patient_middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Pending" label="Pending" max_length="40" name="u_pending" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Primary Diagnosis" label="Primary Diagnosis" max_length="40" name="u_primary_diagnosis" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=% Completed" label="% Completed" max_length="40" name="u___completed" type="string"/>
+    </element>
+</database>

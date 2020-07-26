@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_patient_first_name" label="Patient First Name" language="en" table="x_58872_needit_n">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_patient_first_name</element>
+            <help/>
+            <hint/>
+            <label>Patient First Name</label>
+            <language>en</language>
+            <name>x_58872_needit_n</name>
+            <plural>Patient First Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-26 03:09:03</sys_created_on>
+            <sys_id>2f2e0aa42f9e1010532edcb6f699b6d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Patient First Name</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_n_u_patient_first_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-26 03:09:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
