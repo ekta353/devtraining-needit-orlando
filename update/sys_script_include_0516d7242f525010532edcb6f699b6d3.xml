@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_58872_needit.validateEmailAddress</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>On demand Script Include to validate email address syntax using regular expressions.</description>
+        <name>validateEmailAddress</name>
+        <script><![CDATA[var validateEmailAddress = Class.create();
+validateEmailAddress.prototype = {
+    initialize: function() {
+    },
+
+    type: 'validateEmailAddress'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 08:24:19</sys_created_on>
+        <sys_id>0516d7242f525010532edcb6f699b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>validateEmailAddress</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_0516d7242f525010532edcb6f699b6d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 08:24:19</sys_updated_on>
+    </sys_script_include>
+</record_update>
